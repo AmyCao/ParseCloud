@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "xiyan"
+    },
+    "xiyan": {
+      "applicationId": "mHVHt9Vq4VuOULD8k86d7ZZ1tcBHqkeirCVvI4yE"
+    }
+  }
+}
